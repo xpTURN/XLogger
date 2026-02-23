@@ -2,12 +2,12 @@
   "name": "com.xpturn.xlogger",
   "version": "0.1.0",
   "displayName": "xpTURN.XLogger",
-  "description": "",
+  "description": "XLogger(ZLogger Add-on). It provides XLog* extension methods and uses scripting define symbols to completely remove log calls from the build.",
   "unity": "2022.3",
   "unityRelease": "12f1",
-  "documentationUrl": "https://github.com/xpTURN/XInterpolatedString/blob/main/README.md",
-  "changelogUrl": "https://github.com/xpTURN/XInterpolatedString/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/xpTURN/XInterpolatedString/blob/main/LICENSE.md",
+  "documentationUrl": "https://github.com/xpTURN/XLogger/blob/main/README.md",
+  "changelogUrl": "https://github.com/xpTURN/XLogger/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/xpTURN/XLogger/blob/main/LICENSE.md",
   "dependencies": {
   },
   "testables": ["com.xpturn.xlogger"],
@@ -20,12 +20,12 @@
   "samples": [
       {
           "displayName": "Samples",
-          "description": "",
+          "description": "Contains sample code and assets for the XLogger library.",
           "path": "Samples~/"
       },
       {
         "displayName": "Tests",
-        "description": "",
+        "description": "Contains sample code and assets for the XLogger library.",
         "path": "Tests~/"
       }
   ],
