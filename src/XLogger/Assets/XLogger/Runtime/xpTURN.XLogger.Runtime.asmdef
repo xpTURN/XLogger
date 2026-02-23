@@ -1,0 +1,21 @@
+{
+    "name": "xpTURN.XLogger.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "xpTURN.Polyfill.Runtime",
+        "ZLogger.Unity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "ZLogger.dll",
+        "Microsoft.Extensions.Logging.dll",
+        "Microsoft.Extensions.Logging.Abstractions.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

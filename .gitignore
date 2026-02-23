@@ -1,0 +1,18 @@
+# OS specific
+.[Dd][Ss]_[Ss]tore
+
+# Unity specific Folders
+**/[Uu]s[Ee]r[Ss]ettings
+**/[Ll]ibrary
+**/[Ll]ogs
+**/[Tt]emp
+
+## Ignore Packages folders
+**/[Aa]ssets/[Pp]ackages
+
+# VSCode specific Folders
+**/.vscode
+
+# Project specific Files
+**/*.csproj
+**/*.sln

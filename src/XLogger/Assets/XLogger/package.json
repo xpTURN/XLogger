@@ -1,0 +1,37 @@
+{
+  "name": "com.xpturn.xlogger",
+  "version": "0.1.0",
+  "displayName": "xpTURN.XLogger",
+  "description": "",
+  "unity": "2022.3",
+  "unityRelease": "12f1",
+  "documentationUrl": "https://github.com/xpTURN/XInterpolatedString/blob/main/README.md",
+  "changelogUrl": "https://github.com/xpTURN/XInterpolatedString/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/xpTURN/XInterpolatedString/blob/main/LICENSE.md",
+  "dependencies": {
+  },
+  "testables": ["com.xpturn.xlogger"],
+  "keywords": [
+    "xpTURN",
+    "XLogger",
+    "ZLogger",
+    "InterpolatedStringHandler"
+  ],
+  "samples": [
+      {
+          "displayName": "Samples",
+          "description": "",
+          "path": "Samples~/"
+      },
+      {
+        "displayName": "Tests",
+        "description": "",
+        "path": "Tests~/"
+      }
+  ],
+  "author": {
+    "name": "xpTURN",
+    "email": "xpturn@gmail.com",
+    "url": "https://github.com/xpTURN"
+  }
+}
