@@ -19,6 +19,8 @@ ZLogger is widely used for its compiler-transformed interpolated strings and sta
 
 To use XLogger (including ZLogger), you need to modify the project settings to use the C# preview language version (e.g. <code>-langversion:preview</code>, adding Polyfill code).
 
+- ⚠️ There can be various ways to set this up. You can skip this section if you have already added it to your project.
+
 ### 1 Install xpTURN.Polyfill
 
 1. Open **Window > Package Manager**
