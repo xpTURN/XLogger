@@ -12,14 +12,14 @@ ZLogger is widely used for its compiler-transformed interpolated strings and sta
 
 ### xpTURN.Polyfill Installation
 
+📦 [xpTURN.Polyfill](https://github.com/xpTURN/Polyfill)
+
 <details>
 <summary>How to add xpTURN.Polyfill to your project (when not installed or configured)</summary>
 
 To use XLogger (including ZLogger), you need to modify the project settings to use the C# preview language version (e.g. <code>-langversion:preview</code>, adding Polyfill code).
 
 ### 1 Install xpTURN.Polyfill
-
-📦 [xpTURN.Polyfill](https://github.com/xpTURN/Polyfill)
 
 1. Open **Window > Package Manager**
 2. Click **+** > **Add package from git URL...**
@@ -33,6 +33,8 @@ https://github.com/xpTURN/Polyfill.git?path=src/Polyfill/Assets/Polyfill
 </details>
 
 ### ZLogger Installation
+
+📦 [Cysharp/ZLogger](https://github.com/Cysharp/ZLogger)
 
 <details>
 <summary>How to add ZLogger to your project (when not installed)</summary>
@@ -49,8 +51,6 @@ https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity
 ```
 
 ### 2 Install ZLogger
-
-📦 [ZLogger](https://github.com/Cysharp/ZLogger)
 
 1. Open **NuGet > Manage NuGet Packages**
 2. Click **🔍️**, enter **ZLogger**, then click **Search**
